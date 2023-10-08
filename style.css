@@ -207,8 +207,12 @@
 	.hh {
 		color: #fff;
 	}
-	.hh span{
-		background-color: #3a6cf4;
+	.ma span{
+		color: #3a6cf4;
+	}
+	.paragraph span{
+		color: #3a6cf4;
+		font-weight: 700;
 	}
 	.mm {
 		background-color: #fff;
