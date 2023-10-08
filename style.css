@@ -190,7 +190,7 @@
 	   position: center;
 	}
 	.paragraph {
-		color: #fff;
+		color: #000016;
 		font-size: 1.4em;
 		font-weight: 500;
 	    width: 100%;
@@ -200,12 +200,12 @@
 		background-position: center;
 		background-repeat: unset;
 		background-position: left;
-		background-color: #000016;
+		background-color: #fff;
 		background-attachment: fixed;
 		padding: 100px 200px;"	
 	}
 	.hh {
-		color: #fff;
+		color: #000016;
 	}
 	.ma span{
 		color: #3a6cf4;
@@ -214,6 +214,7 @@
 		color: #3a6cf4;
 		font-weight: 700;
 	}
+	
 	.mm {
 		background-color: #fff;
 		width: 21.25em;
@@ -228,7 +229,7 @@
 		transform: scale(1.1)
 	}
 	.kl {
-		background-color: #000016;
+		background-color: #fff;
 		display: flex;
 		justify-content: center;
 		flex-direction: row;
